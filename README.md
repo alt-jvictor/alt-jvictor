@@ -1,51 +1,39 @@
-# 👋 Olá, eu sou o João Victor!
+<h2 align="left">👋 Olá, eu sou o João Victor!</h2>
 
-### 💻 Desenvolvedor Full Stack em formação
-Atualmente cursando **Análise e Desenvolvimento de Sistemas** na **UNINOVE** e me especializando como Desenvolvedor Full Stack JavaScript pela **OneBitCode**. Tenho experiência em **atendimento ao cliente**, **automação de processos** e **gerenciamento de planilhas**.
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alt-jvictor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alt-jvictor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## 🚀 Habilidades Técnicas
-- **Front-End:** HTML, CSS, JavaScript
-- **Back-End:** Noções de Node.js
-- **Banco de Dados:** MySQL (Básico)
-- **Automatização:** Microsoft Excel avançado com macros e VBA
-- **Ferramentas:** Visual Studio Code, Git/GitHub
-- **Outros:** Adobe Photoshop, Pacote Office (Word, Excel, PowerPoint)
+###
 
----
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+</div>
 
-## 🎯 Objetivo
-Contribuir para o crescimento de empresas por meio de soluções tecnológicas que otimizem processos e aumentem a eficiência. Meu foco é desenvolver habilidades práticas e aplicáveis na área de TI, sempre buscando aprendizado contínuo.
+###
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+</div>
 
-## 📈 Projetos em Destaque
-- [Projeto 1](#) - (Descrição breve do projeto)
-- [Projeto 2](#) - (Descrição breve do projeto)
+###
 
-*(Adicione links para seus repositórios de projetos relevantes)*
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/alt-jvictor/alt-jvictor/output/snake.svg" alt="Snake animation" />
 
-## 📚 Formação Acadêmica
-- **Análise e Desenvolvimento de Sistemas** - UNINOVE *(Cursando)*
-- **Desenvolvedor Full Stack JavaScript** - OneBitCode *(Cursando)*
-
----
-
-## 🌟 Qualificações Pessoais
-- Pensamento analítico
-- Proatividade
-- Resiliência
-- Trabalho em equipe
-- Aprendizado contínuo
-
----
-
-## 📫 Contato
-- **Email:** souzasilvajoaovictor65@gmail.com
-- **LinkedIn:** [alt-jvictor](https://www.linkedin.com/in/alt-jvictor/)
-- **GitHub:** [alt-jvictor](https://github.com/alt-jvictor)
-
-Sinta-se à vontade para explorar meus repositórios e entrar em contato!
+###
