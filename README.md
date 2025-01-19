@@ -1,4 +1,4 @@
-# 👋 Olá, sou João Victor Souza Silva!
+# 👋 Olá, eu sou o João Victor!
 
 ### 💻 Desenvolvedor Full Stack em formação
 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na **UNINOVE** e me especializando como Desenvolvedor Full Stack JavaScript pela **OneBitCode**. Tenho experiência em **atendimento ao cliente**, **automação de processos** e **gerenciamento de planilhas**.
