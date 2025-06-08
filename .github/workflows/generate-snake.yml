@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: '0 0,12 * * *' # roda às 00:00 e 12:00 UTC
+    - cron: '0 0,12 * * *'
   push:
     branches:
       - main
@@ -25,5 +25,5 @@ jobs:
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v9
         with:
-          message: "Atualização da animação Snake"
+          message: 'Atualização da animação Snake'
           add: dist/snake.svg
