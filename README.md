@@ -3,9 +3,10 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/alt-jvictor"><img src="https://github-readme-stats.vercel.app/api?username=alt-jvictor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true" height="150" alt="stats graph"/></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=alt-jvictor&count_private=true&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true&cache_seconds=3600" height="150" alt="stats graph"/>
+  <a href="https://github.com/alt-jvictor"><img src="https://github-readme-stats.vercel.app/api?username=alt-jvictor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&cache_seconds=3600" height="150" alt="stats graph"/></a>
+  <a href="https://github.com/alt-jvictor"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alt-jvictor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&cache_seconds=3600" height="150" alt="languages graph"/></a>
 </div>
+
 
 ###
 
