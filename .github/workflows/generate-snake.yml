@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Roda todos os dias à meia-noite UTC
+    - cron: '0 0,12 * * *'
   push:
     branches:
       - main # ou 'master', dependendo do nome da sua branch principal
