@@ -35,6 +35,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/alt-jvictor/alt-jvictor/output/snake.svg" alt="Snake animation" />
+<a src="https://raw.githubusercontent.com/alt-jvictor/alt-jvictor/output/snake.svg" alt="Snake animation" />
 
 ###
