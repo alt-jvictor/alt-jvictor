@@ -32,9 +32,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/alt-jvictor/alt-jvictor/main/dist/snake.svg" alt="Snake animation" />
-
-###
